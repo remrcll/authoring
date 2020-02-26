@@ -1,16 +1,19 @@
 #  Github Flavoured Markdown
 ## Tasks
-[] External Link
+[ ] External Link
 
-[] Internal Link
+[ ] Internal Link
 
-[] Images
+[ ] Images
 
-[] Emojis
+[ ] Emojis
 
-[] Tables
+[ ] Tables
 
 ## External documentation: 
+
 [Git Hub Documentation](https://help.github.com/en)
-[Images](/images)
+
+[Link to images folder](/images)
+
 ![cat](/images/easter-kitty.gif)
