@@ -1,14 +1,14 @@
 #  Github Flavoured Markdown
 ## Tasks
-[ ] External Link
+- [ ] External Link
 
-[ ] Internal Link
+- [ ] Internal Link
 
-[ ] Images
+- [ ] Images
 
-[ ] Emojis
+- [ ] Emojis
 
-[ ] Tables
+- [ ] Tables
 
 ## External documentation: 
 
