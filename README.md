@@ -1,15 +1,15 @@
 #  Github Flavoured Markdown
 ## Tasks
 
-- [ ] [External Link](#External-documentation)
+- [x] [External Link](#External-documentation)
 
-- [ ] [Internal Link](#Internal-link)
+- [x] [Internal Link](#Internal-link)
 
-- [ ] [Images](#Link-to-a-funny-cat)
+- [x] [Images](#Link-to-a-funny-cat)
 
-- [ ] [Emojis](#Emojis)
+- [x] [Emojis](#Emojis)
 
-- [ ] [Table](#Table-with-two-heading)
+- [x] [Table](#Table-with-two-heading)
 
 ## External documentation 
 
